@@ -2,21 +2,25 @@
 
 
 ## Description
-Express.js application for taking notes
+This is an Express.js application for taking and organizing notes. It's designed to be a simple and intuitive way to keep track of your thoughts, ideas, and to-do lists. With this app, you can create new notes, edit existing notes, and delete notes that you no longer need. Notes are organized in a list view, making it easy to find the note you're looking for. This app is perfect for anyone who wants a simple and efficient way to take and organize notes. 
 
 ## Usage
 ***
-By utilizing Node.js we can create a command-line application that dynamically generates **************** using the Inquirer package.
+To use this app, you'll need to have Node.js installed on your computer. Once you have those installed, you can follow these steps:
 
-To install Universally Unique IDentifiers, please use:
 
+Install the necessary dependencies, please use:
 ```
-npm i uuid
+npm install
 ```
 
 The application will be invoked by using the following command:
 ```
 node server.js
+```
+Open your web browser and go to:
+```
+http://localhost:3001
 ```
 
 ### User Story
@@ -42,7 +46,9 @@ WHEN I click on the Write icon in the navigation at the top of the page
 THEN I am presented with empty fields to enter a new note title and the note’s text in the right-hand col
 ```
 
-### Sources
+![screenshot](./assets/Screenshot%202023-04-16%20144942.png)
+
+### Sources:
 
 ExpressJs:
 - https://expressjs.com/en/guide/routing.html
@@ -57,3 +63,8 @@ geeksforgeeks:
 
 mdn docs:
 - https://developer.mozilla.org/en-US/docs/Glossary/UTF-8
+
+ChatGPT, 
+Instrcutor: Bassie B., 
+TA: Ethan D.,
+Tutor: Jacob C. 
