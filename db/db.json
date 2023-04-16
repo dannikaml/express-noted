@@ -1,6 +1,1 @@
-[
-    {
-        "title":"Test Title",
-        "text":"Test text"
-    }
-]
+[{"title":"Grocery List","text":"Milk, bread, eggs, cheese, and apples.","id":"8ed2da4f-4908-4565-88b4-6aa22a9ee26c"},{"title":"Meeting Notes","text":"Discussed project timelines, assigned tasks, and reviewed progress.","id":"71209c0a-bc7c-49b8-a82c-8059f562d5e2"},{"title":"Travel Plans","text":"Booked flights to Hawaii, reserved a hotel room, and planned activities.","id":"f03ebf89-c08a-48fa-9667-224315c3a838"},{"title":"Fitness Tracker","text":"Ran 3 miles, did 50 push-ups, and 20 sit-ups. Feeling great!","id":"c90b629f-f73f-43ee-b2c7-e60b5f18ee5e"},{"title":"Recipe Ideas","text":"Thinking of making lasagna, chicken curry, and banana bread this week.","id":"920874c3-2df6-4fe0-93b0-b8eefdfe87f6"}]
